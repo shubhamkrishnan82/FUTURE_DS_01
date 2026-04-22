@@ -1,4 +1,4 @@
-<img width="1097" height="906" alt="Superstore Sales Analysis_Dashboard" src="https://github.com/user-attachments/assets/2af8ac64-b71c-4787-a04c-428ffd8e19f4" /># FUTURE_DS_01
+FUTURE_DS_01
 Business Sales Performance Dashboard built using Microsoft Excel  as part of Future Interns Data Analytics Internship
 
 ## Dataset
