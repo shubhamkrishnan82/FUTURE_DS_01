@@ -28,4 +28,4 @@ Business Sales Performance Dashboard built using Microsoft Excel  as part of Fut
 Microsoft Excel — Pivot Tables, Charts, Slicers, Dashboard Design
 
 ## Dashboard Preview
-![Dashboard Preview](Superstore20%Sales20%Analysis_Dashboard.png)
+![Dashboard Preview](https://github.com/shubhamkrishnan82/FUTURE_DS_01/blob/main/Superstore%20Sales%20Analysis_Dashboard.png?raw=true.png)
